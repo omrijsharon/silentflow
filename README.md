@@ -1,2 +1,2 @@
 # silentflow
-Eliminating Drone Noise in GoPro Videos.
+Eliminating Drone Noise in FPV Videos.
